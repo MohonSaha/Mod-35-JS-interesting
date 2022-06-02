@@ -8,3 +8,4 @@ function greetMorning (name){
    
 }
 wellcomeMassage('Tom Hanks',greetMorning)
+
