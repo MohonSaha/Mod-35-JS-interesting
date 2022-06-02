@@ -1,6 +1,6 @@
 function wellcomeMassage(name, greetHandler){
     greetHandler(name);
-
+    // greetHandler()
 }
 
 function greetMorning (name){
